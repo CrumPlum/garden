@@ -5,7 +5,7 @@ tags:
 - green/seed
 ---
 Links:  
-[[notes/zero/@ Віктор Теплов - obsidian]]  
+[[notes/zero/@ Віктор Тєплов - obsidian]]  
 як вести [[notes/zero/00 Obsidian]]  
 [link](https://www.youtube.com/watch?v=PiS3pRRj994&ab_channel=ВикторТеплов)  
 —  

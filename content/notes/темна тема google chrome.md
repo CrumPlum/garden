@@ -6,7 +6,7 @@ tags:
 date: 2024-07-10
 ---
 Links:  
-[[notes/11 programms - додатки|programms]]  
+[[notes/zero/11 programms - додатки|programms]]  
 —  
 в строчці зверху написати 
 

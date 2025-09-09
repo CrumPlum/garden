@@ -30,5 +30,5 @@ Links:
 - [[notes/як робити obsidian - поради від Віктора Теплова 2]]
 - [[notes/приклад обсидіан Юлія Багрій.md]]
 
-- [[notes/10 dataview- плагин obsidian.md]]
+- [[notes/zero/10 dataview- плагин obsidian]]
 - [[notes/zero/10 dataview- плагін obsidian приклади використання 01 dataview]]

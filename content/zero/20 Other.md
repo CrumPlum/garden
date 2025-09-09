@@ -48,7 +48,7 @@ Zero-Links & Links:
 - [[notes/zero/@ Арістотель.md]]
 - [[notes/zero/@ Асафєв Стас.md]]
 - [[notes/zero/@ Ван Гог.md]]
-- [[notes/zero/@ Віктор Теплов - obsidian.md]]
+- [[notes/zero/@ Віктор Тєплов - obsidian]]
 - [[notes/zero/@ Віктор Тєплов - obsidian.md]]
 - [[notes/zero/@ Вінні Пух.md]]
 - [[notes/zero/@ Генрі Форд.md]]
