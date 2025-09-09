@@ -9,7 +9,7 @@ home page of an animator, pythonist and knowledge gatherer
 > Our work is the presentation of our capabilities.  
 > — <cite>Edward Gibbon</cite>
 
-© ← → ↑ ↓  @@  =>  ✰ ★ ⚛ 🌲 🌱 🍃 🏝️  🔥 🔴 🟡 🟢 🎨 🔳 🟦 🟪 🟧
+© ← → ↑ ↓  @@  =>  
 для сінхронізації
 npx quartz sync
 
@@ -96,8 +96,5 @@ npx quartz sync
 [[notes/search]]  
 [мої фото/відео для збереження](https://www.flickr.com/photos/198062248@N07/albums/with/72177720307332226) — в основному це [[00 inspiration]]
 
-### Troubleshooting
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
 
