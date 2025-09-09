@@ -3,7 +3,7 @@ title: "{0033 Zettelkästen у мріях та житті}"
 Alias: 
 tags:
 - green/seed
-date: 2023-08-04 10:59
+date: 2023-08-04
 ---
 Links:  
 [[notes/zero/00 Obsidian|обсідіан]]
