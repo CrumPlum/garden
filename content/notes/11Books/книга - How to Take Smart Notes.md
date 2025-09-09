@@ -2,7 +2,7 @@
 title: книга - How to Take Smart Notes
 aliases:
   - notes
-date: 22-03-2023
+date: 2023-03-22
 tags:
   - green/tree
 ---
