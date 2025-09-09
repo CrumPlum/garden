@@ -1,7 +1,7 @@
 ---
 title: "00 health - info"
 Alias: здоров'я, Health Information, Medical Research, Wellness Insights
-date: 2023-03-22 / 1358  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 

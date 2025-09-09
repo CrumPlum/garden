@@ -1,7 +1,7 @@
 ---
 title: "11 Wish List"
 Alias: купити, хотілки, техніка
-date: 2023-03-25 / 1549  
+date: 2023-03-25  
 ---
 Zero-Links & Links:  
 —  

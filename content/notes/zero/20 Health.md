@@ -1,7 +1,7 @@
 ---
 title: "20 Health"
 Alias:  
-date: 2023-03-22 / 1401  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 про здоров'я загалом, і про мене

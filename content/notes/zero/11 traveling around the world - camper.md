@@ -1,7 +1,7 @@
 ---
 title: "11 traveling around the world - camper"
 Alias: подорож, кемпер
-date: 2023-03-22 / 1400  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 

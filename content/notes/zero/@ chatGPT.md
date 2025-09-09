@@ -1,7 +1,7 @@
 ---
 title: "@ chatGPT"
 Alias: чат
-date: 2023-03-25 / 1438  
+date: 2023-03-25  
 ---
 Zero-Links & Links:  
 

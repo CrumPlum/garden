@@ -1,6 +1,6 @@
 ---
 title: "20 Journey"
-date: 2023-03-22 / 1401  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 📍 journey  

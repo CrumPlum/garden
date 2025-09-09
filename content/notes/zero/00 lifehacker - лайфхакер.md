@@ -1,7 +1,7 @@
 ---
 title: "00 lifehacker - лайфхакер"
 Alias: Лайфхакер, Life Improvement, Productivity Tips
-date: 2023-03-22 / 1359  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 

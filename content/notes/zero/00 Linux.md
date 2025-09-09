@@ -1,7 +1,7 @@
 ---
 title: "00 Linux"
 Alias: Open-Source, Unix-Based OS, Command Line Interface
-date: 2023-03-22 / 1359  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 [[notes/Linux - Arch, manjaro|Linux - Arch, manjaro]]

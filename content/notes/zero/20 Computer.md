@@ -1,6 +1,6 @@
 o---
 title: "20 Computer"
-date: 2023-03-22 / 1400  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 

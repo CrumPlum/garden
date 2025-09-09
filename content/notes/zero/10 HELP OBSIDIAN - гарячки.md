@@ -1,7 +1,7 @@
 ---
 title: "10 HELP OBSIDIAN - гарячки"
 Alias: 10, горячки, hotkeys
-date: 2023-03-22 / 1530  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 [[notes/zero/10 obsidian та zettelkasten]]

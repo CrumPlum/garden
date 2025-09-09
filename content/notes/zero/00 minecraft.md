@@ -1,7 +1,7 @@
 ---
 title: "00 minecraft"
 Alias:  Sandbox Game, Building Simulation, Adventure Game
-date: 2023-03-22 / 1359  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 

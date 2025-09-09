@@ -1,7 +1,7 @@
 ---
 title: "00 animation"
 Alias: анімація, Cartoons, Motion Graphics, AE, Adobe after effects
-date: 2023-03-22 / 1358  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 

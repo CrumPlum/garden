@@ -6,7 +6,7 @@ tags:
 date: 2023-08-04 10:59
 ---
 Links:  
-2023-01-03 / 2001  
+2023-01-03  
 
 [[notes/zero/11 traveling around the world - camper]]  
 [link](https://www.google.com/search?q=country+%D0%B0%D0%B2%D1%82%D0%BE%D0%B4%D0%BE%D0%BC&newwindow=1&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiKy5vJ_av8AhXPtYsKHRGBDKEQ_AUoAXoECAEQAw&biw=1920&bih=947&dpr=1  )  

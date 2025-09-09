@@ -1,7 +1,7 @@
 ---
 title: "00 courses"
 Alias: курси, Education, Digital Courses
-date: 2023-03-22 / 1358  
+date: 2023-03-22  
 ---
 Zero-Links & Links:  
 
