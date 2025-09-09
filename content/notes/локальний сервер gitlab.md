@@ -10,7 +10,7 @@ Links:
 2022-05-05  
 —  
 Zero-Links & Links:  
-[00 Linux](00%20Linux.md)
+[00 Linux](notes/zero/00%20Linux.md)
 
 —  
 локальний сервер gitlab
